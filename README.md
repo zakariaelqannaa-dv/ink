@@ -19,11 +19,17 @@
 Type `HELLO`, pick a font and a fill symbol, hit Generate, and copy the result for Discord, GitHub READMEs, banners, terminals, and social bios.
 
 ```text
-█  █  ███  █     █     █████
-█  █  █    █     █    █     █
-████  ███  █     █    █     █
-█  █  █    █     █    █     █
-█  █  ███  █████ █████ █████
+██    ██  ████████  ██        ██          ████    
+██    ██  ██        ██        ██        ██    ██  
+████████  ██████    ██        ██        ██    ██  
+██    ██  ██        ██        ██        ██    ██  
+██    ██  ████████  ████████  ████████    ████    
+                                                       
+██          ██    ████    ██████    ██        ██████    
+██          ██  ██    ██  ██    ██  ██        ██    ██  
+██    ██    ██  ██    ██  ██████    ██        ██    ██  
+  ██  ██  ██    ██    ██  ██    ██  ██        ██    ██  
+    ██  ██        ████    ██    ██  ████████  ██████
 ```
 
 No web dependencies. No mess. Just clear output.
